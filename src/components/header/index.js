@@ -20,7 +20,7 @@ const Header = () => {
         />
       </Navbar.Brand>
       <Navbar.Brand as={Link} to="/">
-        <i> AGRO-LIF</i>
+        <i> AGRO-LIFe</i>
       </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse>
